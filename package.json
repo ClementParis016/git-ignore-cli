@@ -1,13 +1,13 @@
 {
-  "name": "gitignore-cli",
+  "name": "git-ignore-cli",
   "version": "0.0.1",
   "description": "Manage your .gitignore from the command line.",
   "author": "Clément Paris <hello@clementparis.fr> (http://www.clementparis.fr/)",
-  "repository": "ClementParis016/gitignore-cli",
+  "repository": "ClementParis016/git-ignore-cli",
   "license": "MIT",
   "keywords": [
     "git",
-    "gitignore",
+    "git-ignore",
     ".gitignore"
   ],
   "preferGlobal": true,
