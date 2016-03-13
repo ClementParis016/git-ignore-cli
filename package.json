@@ -2,6 +2,14 @@
   "name": "gitignore-cli",
   "version": "0.0.1",
   "description": "Manage your .gitignore from the command line.",
+  "author": "Clément Paris <hello@clementparis.fr> (http://www.clementparis.fr/)",
+  "repository": "ClementParis016/gitignore-cli",
+  "license": "MIT",
+  "keywords": [
+    "git",
+    "gitignore",
+    ".gitignore"
+  ],
   "preferGlobal": true,
   "main": "./lib/gitignore.js",
   "bin": {
@@ -11,8 +19,6 @@
   "engines": {
     "node": ">=4"
   },
-  "author": "Clément Paris <hello@clementparis.fr> (http://www.clementparis.fr/)",
-  "license": "MIT",
   "dependencies": {
     "meow": "^3.7.0"
   },
