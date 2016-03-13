@@ -1,6 +1,6 @@
 {
   "name": "git-ignore-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Manage your .gitignore from the command line.",
   "author": "Clément Paris <hello@clementparis.fr> (http://www.clementparis.fr/)",
   "repository": "ClementParis016/git-ignore-cli",
