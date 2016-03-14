@@ -30,6 +30,7 @@ $ gitignore --help
 
 ## TODO
 - Write tests
+- Implement [gitignore.io](https://www.gitignore.io/)
 
 ## License
 [The MIT License](https://opensource.org/licenses/MIT) © [Clément Paris](http://www.clementparis.fr)
