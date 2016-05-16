@@ -11,7 +11,7 @@
     ".gitignore"
   ],
   "preferGlobal": true,
-  "main": "./lib/gitignore.js",
+  "main": "./lib/index.js",
   "bin": {
     "gitignore": "./bin/gitignore-cli.js"
   },

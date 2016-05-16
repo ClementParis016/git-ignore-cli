@@ -2,7 +2,7 @@
 'use strict';
 
 const meow = require('meow');
-const gitignore = require('../lib/gitignore');
+const gitignore = require('../lib/index.js');
 
 const cli = meow(`
   Usage
@@ -19,7 +19,7 @@ const cli = meow(`
       *.zip
 
     $ gitignore --local
-      Local .gitignore (Z:\_projects\gitignore-cli\.gitignore)
+      Local .gitignore (Z:\_projects\gitignore-cli\.gitignore):
       build/.tmp
       *.zip
 `, {
