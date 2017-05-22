@@ -1,6 +1,8 @@
 # git-ignore-cli
 > Manage your .gitignore from the command line.
 
+**WARNING**: this tool is a work-in-progress and might be unstable or unsuitable for serious use.
+
 ## Installation
 ```
 npm install --global git-ignore-cli
